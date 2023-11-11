@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       {age}
       <div>
-        <button onClick={handleChange}>click here</button>
+        <button onClick={handleChange}>click it</button>
       </div>
 
       <input type="text" onChange={handleOnChange} />
